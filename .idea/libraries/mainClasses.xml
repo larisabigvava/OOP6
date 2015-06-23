@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mainClasses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../OOP4/out/artifacts/mainClasses/mainClasses.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../OOP4/out/artifacts/mainClasses/mainClasses.jar!/" />
+    </SOURCES>
+  </library>
+</component>
